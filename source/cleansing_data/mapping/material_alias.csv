@@ -1,0 +1,5 @@
+sheet_name,material_name,sap_code,status,note
+MBM,Meat Bone Meal (I),301100,cocok_persis,Nama sama persis dengan daftar SAP
+FML C,Fish Meal - Local C (L),306203,cocok_persis,Nama sama persis dengan daftar SAP
+PBPM,Poultry By Product Meal HIPRO (I),355101,asumsi,Daftar SAP: Poultry By Product Meal HiPro (I) - beda huruf besar/kecil saja
+SBM,SBM BZ (I/L),,perlu_konfirmasi,Kandidat 201102 atau 201302 (keduanya SBM Brazil HiPro)

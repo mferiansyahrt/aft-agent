@@ -1,0 +1,14 @@
+# rahasia & environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# database hasil build (dibuat ulang dari Excel)
+source/database/*.sqlite
+
+# data mentah CP Prima (bagikan terpisah, jangan ikut repo)
+data/
+
+docs/
+

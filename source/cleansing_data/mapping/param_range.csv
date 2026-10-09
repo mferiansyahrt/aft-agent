@@ -1,0 +1,13 @@
+parameter_code,min_value,max_value,status,note
+moisture,0,20,asumsi,% as-is; bahan baku kering
+crude_protein,0,100,asumsi,%
+fat,0,50,asumsi,%
+fiber,0,50,asumsi,%
+ash,0,60,asumsi,%
+calcium,0,25,asumsi,%
+phosphorus,0,12,asumsi,%
+pepsin_digest,0,100,asumsi,%
+koh_digest,0,100,asumsi,%
+pdi,0,100,asumsi,%
+mbm_index,0,100,asumsi,
+tvbn,0,500,asumsi,mg N/100 g
